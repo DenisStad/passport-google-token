@@ -1,17 +1,17 @@
 {
-  "name": "passport-google-token",
-  "version": "0.1.1",
-  "description": "Google token authentication strategy for Passport.",
+  "name": "passport-google-tokenid",
+  "version": "0.1.2",
+  "description": "Google token authentication strategy for Passport for use with id_token",
   "author": {
     "name": "Rob DiMarco",
     "email": "dimarco.robert@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/robertdimarco/passport-google-token.git"
+    "url": "git://github.com/DenisStad/passport-google-token.git"
   },
   "bugs": {
-    "url": "http://github.com/robertdimarco/passport-google-token/issues"
+    "url": "http://github.com/DenisStad/passport-google-token/issues"
   },
   "main": "./lib/passport-google-token",
   "dependencies": {
